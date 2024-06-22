@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm piyumi and I'm a young and enthusiastic software developer with a passion for crafting clean code and building scalable solutions. My journey into the world of programming began with a curiosity that quickly evolved into a deep-seated love for creating software that makes a difference </h2>
+<h2 align="left">Hi 👋! I'm piyumi and I'm a young and enthusiastic software developer with a passion for crafting clean code and building scalable solutions.
 
 ###
 
