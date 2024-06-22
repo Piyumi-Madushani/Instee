@@ -19,8 +19,8 @@ I'm a passionate Software Engineering undergraduate exploring various technologi
 
 ## Projects & Contributions
 
-- **Project 1:** Basic project using C++ ()
-- **Project 2:** Basic project using C# ()
+- **Project 1:** Basic project using C++ (https://github.com/Instee/assignment_1)
+- **Project 2:** Basic project using C# (https://github.com/Instee/school_management_system)
 - **Contribution:** Describe your contributions to open source projects or collaborations.
 
 ## Connect with Me
